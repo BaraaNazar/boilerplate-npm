@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Barney Rubble <b@rubble.com> (http://barnyrubble.tumblr.com/)",
+	"author": "Baraa Nazar",
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
