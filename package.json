@@ -1,9 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Baraa Nazar",
-	"dependencies": {
-	  "express": "^4.14.0"
-	},
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "related", "words" ],
+	"license": "MIT",
+	"version": "1.2.0",
+	"author": "foobar",
+  "dependencies": {
+	"package-name": "version",
+	"@freecodecamp/example": "1.1.0"
+  }
+  ,
 	"main": "server.js",
 	"scripts": {
 	  "start": "node server.js"
